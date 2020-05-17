@@ -15,5 +15,3 @@ console.log('index', {
   x,
   y,
 })
-
-const etc = 'etc'
