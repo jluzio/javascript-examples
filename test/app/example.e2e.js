@@ -1,3 +1,4 @@
+// TODO: fix Puppeteer e2e test
 describe('Google', () => {
   beforeAll(async () => {
     await page.goto('https://google.com');
